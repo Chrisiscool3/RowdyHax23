@@ -1,0 +1,112 @@
+{"breakfast":[
+    {
+        "Easy Homemade Crepes": {
+               "servingSize": "1 crepe",
+               "calories": "216 kcal",
+               "carbohydrateContent": "18 g",
+               "proteinContent": "6 g",
+               "fatContent": "13 g",
+               "sodiumContent": "279 mg",
+               "fiberContent": "1 g"
+        }
+    },
+    {
+        "Banana Bread Baked Oatmeal": {
+               "servingSize": "1 serving",
+               "calories": "367.87 kcal",
+               "carbohydrateContent": "54.22 g",
+               "proteinContent": "11.4 g",
+               "fatContent": "13.28 g",
+               "sodiumContent": "324.97 mg",
+               "fiberContent": "5.7 g"
+        }
+    },
+    {
+        "Southwest Tortilla Baked Eggs": {
+               "servingSize": "0.5 recipe",
+               "calories": "371.7 kcal",
+               "carbohydrateContent": "15.55 g",
+               "proteinContent": "22.05 g",
+               "fatContent": "24.5 g",
+               "sodiumContent": "902.6 mg",
+               "fiberContent": "1.6 g"
+        }
+    },
+    {
+        "Salsa Poached Eggs": {
+               "servingSize": "1 serving",
+               "calories": "187 kcal",
+               "carbohydrateContent": "12 g",
+               "proteinContent": "8 g",
+               "fatContent": "12 g",
+               "sodiumContent": "706 mg",
+               "fiberContent": "2 g"
+        }
+    },
+    {
+        "Spinach Mushroom and Feta Crustless Quiche": {
+               "servingSize": "1 slice",
+               "calories": "187 kcal",
+               "carbohydrateContent": "6 g",
+               "proteinContent": "13 g",
+               "fatContent": "13 g",
+               "fiberContent": "2 g",
+               "sodiumContent": "378 mg"
+        }
+    },
+    {
+        "French Toast": {
+               "servingSize": "2 slices",
+               "calories": "340 kcal",
+               "carbohydrateContent": "27 g",
+               "proteinContent": "9 g",
+               "fatContent": "22 g",
+               "sodiumContent": "399 mg",
+               "fiberContent": "3 g"
+        }
+    },
+    {
+        "Ricotta Pancakes": {
+               "servingSize": "2 pancakes",
+               "calories": "364 kcal",
+               "carbohydrateContent": "32 g",
+               "proteinContent": "15 g",
+               "fatContent": "19 g",
+               "sodiumContent": "285 mg",
+               "fiberContent": "1 g"
+        }
+    },
+    {
+        "Sausage and Egg Breakfast Quesadillas": {
+               "servingSize": "1 quesadilla",
+               "calories": "325.15 kcal",
+               "carbohydrateContent": "23.37 g",
+               "proteinContent": "16.5 g",
+               "fatContent": "17.55 g",
+               "sodiumContent": "1273.23 mg",
+               "fiberContent": "2.33 g"
+        }
+    },
+    {
+        "Smoky Roasted Breakfast Potatoes": {
+               "servingSize": "1.25 cups",
+               "calories": "319.6 kcal",
+               "carbohydrateContent": "43.85 g",
+               "proteinContent": "5.13 g",
+               "fatContent": "6.8 g",
+               "sodiumContent": "209.45 mg",
+               "fiberContent": "3.88 g"
+        }
+    },
+    {
+        "Ham and Cheese Biscuits": {
+              "servingSize": "1 Serving",
+              "calories": "551.25 kcal",
+              "carbohydrateContent": "41.15 g",
+              "proteinContent": "18.35 g",
+              "fatContent": "33.37 g",
+              "sodiumContent": "851.88 mg"
+        }
+    }
+]
+}

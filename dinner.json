@@ -1,0 +1,112 @@
+{"dinner":[
+    {
+        "One Pot Creamy Pesto Chicken Pasta": {
+            "servingSize": "1 Serving",
+            "calories": "748.68 kcal",
+            "carbohydrateContent": "52.55 g",
+            "proteinContent": "41.75 g",
+            "fatContent": "41.53 g",
+            "fiberContent": "4.1 g",
+            "sodiumContent": "1099.28 mg"
+        }
+    },
+    {
+        "One Pot Chicken and Rice": {
+            "servingSize": "1 serving",
+            "calories": "421 kcal",
+            "carbohydrateContent": "42 g",
+            "proteinContent": "31 g",
+            "fatContent": "13 g",
+            "sodiumContent": "688 mg",
+            "fiberContent": "2 g"
+        }
+    },
+    {
+        "Easy Sesame Chicken": {
+            "servingSize": "1 Serving",
+            "calories": "551.83 kcal",
+            "carbohydrateContent": "60.38 g",
+            "proteinContent": "26.75 g",
+            "fatContent": "23.3 g",
+            "fiberContent": "1.5 g",
+            "sodiumContent": "1518.4 mg"
+        }
+    },
+    {
+        "Chicken Alfredo": {
+            "servingSize": "1 serving",
+            "calories": "756 kcal",
+            "carbohydrateContent": "46 g",
+            "proteinContent": "47 g",
+            "fatContent": "42 g",
+            "sodiumContent": "719 mg",
+            "fiberContent": "2 g"
+        }
+    },
+    {
+        "Cheesy Sausage Pasta": {
+            "servingSize": "1 serving",
+            "calories": "538 kcal",
+            "carbohydrateContent": "48 g",
+            "proteinContent": "23 g",
+            "fatContent": "28 g",
+            "sodiumContent": "956 mg",
+            "fiberContent": "4 g"
+        }
+    },
+    {
+        "Easy Lemon Pepper Chicken": {
+               "servingSize": "1 serving",
+               "calories": "253.4 kcal",
+               "carbohydrateContent": "3.53 g",
+               "proteinContent": "34.45 g",
+               "fatContent": "10.43 g",
+               "sodiumContent": "656.68 mg",
+               "fiberContent": "0.15 g"
+        }
+    },
+    {
+        "Sweet and Spicy Glazed Chicken Thighs": {
+               "servingSize": "1 Serving",
+               "calories": "317.58 kcal",
+               "carbohydrateContent": "12.55 g",
+               "proteinContent": "28.65 g",
+               "fatContent": "18.48 g",
+               "fiberContent": "0.2 g",
+               "sodiumContent": "483.23 mg"
+        }
+    },
+    {
+        "Sheet Pan Chicken Fajitas": {
+               "servingSize": "1 Serving",
+               "calories": "483 kcal",
+               "carbohydrateContent": "43 g",
+               "proteinContent": "31 g",
+               "fatContent": "21 g",
+               "fiberContent": "4 g",
+               "sodiumContent": "910 mg"
+        }
+    },
+    {
+        "Herb Roasted Chicken Breast": {
+               "servingSize": "1 Serving",
+               "calories": "290.03 kcal",
+               "carbohydrateContent": "1.1 g",
+               "proteinContent": "39.63 g",
+               "fatContent": "13.28 g",
+               "fiberContent": "0.4 g",
+               "sodiumContent": "1053.38 mg"
+        }
+    },
+    {
+        "Quick BBQ Chicken": {
+               "servingSize": "0.25 lb. chicken",
+               "calories": "195.8 kcal",
+               "carbohydrateContent": "6.95 g",
+               "proteinContent": "25.68 g",
+               "fatContent": "6.63 g",
+               "sodiumContent": "419.55 mg",
+               "fiberContent": "0.4 g"
+        }
+    }]
+}
